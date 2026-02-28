@@ -1,16 +1,71 @@
 ## Hi there 👋
 
-<!--
-**nacanab/nacanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Abdel Latif Nacanabo</h1>
+<h3 align="center">Fullstack Web & Mobile Developer | Systems Engineering Graduate</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduate in Information Systems Engineering  
+💻 Passionate about building scalable and secure web & mobile applications  
+🚀 Focused on clean architecture, real-world problem solving, and digital transformation  
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Backend
+- Laravel
+- Django
+- PHP
+
+### 📱 Mobile
+- Flutter
+
+### 🎨 Frontend
+- React
+- HTML
+- CSS
+- JavaScript
+
+### 🗄️ Database
+- MySQL
+- PostgresSQL
+
+### 🛠️ Tools
+- Git & GitHub
+- UML Modeling
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+
+- 🎫 Transport Ticket Reservation System  
+- 🎟️ Event Ticketing Mobile Application (with voting system)  
+- ⚽ Football Team Management Platform  
+- 📚 Library Management System
+- 🎓Digital solution designed to improve access to education.
+- 💼 Development of customized web solutions for individuals and local organizations.
+
+---
+
+## 🎯 What I Focus On
+
+✔ Clean and scalable architecture  
+✔ Secure backend systems  
+✔ Structured database design  
+✔ User-friendly interfaces  
+✔ Business-oriented application development  
+
+---
+
+## 🌍 About Me
+
+Based in Burkina Faso 🇧🇫  
+Open to collaborations, freelance missions, and innovative tech projects.
+
+📫 Contact: nacana170@gmail.com
+
+---
+
+⭐ Always learning. Always building.
