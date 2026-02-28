@@ -64,7 +64,9 @@
 Based in Burkina Faso 🇧🇫  
 Open to collaborations, freelance missions, and innovative tech projects.
 
-📫 Contact: nacana170@gmail.com
+Contacts: 
+📫 nacana170@gmail.com
+🔗 https://www.linkedin.com/in/abdel-latif-nacanabo-40b3982a2
 
 ---
 
